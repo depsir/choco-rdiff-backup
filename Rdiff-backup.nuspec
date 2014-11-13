@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>rdiff-backup</id>
+    <title>rdiff-backup</title>
+    <version>1.2.8</version>
+    <authors>Edward Ned Harvey,Andrew Ferguson,Dean Gaudet,Ben Escoto</authors>
+    <owners>depsir</owners>
+    <summary>rdiff-backup - A remote incremental backup of all your files</summary>
+    <description>rdiff-backup backs up one directory to another, possibly over a network</description>
+    <projectUrl>http://www.nongnu.org/rdiff-backup/</projectUrl>
+    <tags>Rdiff-backup backup rdiff rsync admin</tags>
+    <copyright></copyright>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
