@@ -3,17 +3,18 @@
   <metadata>
     <id>rdiff-backup</id>
     <title>rdiff-backup</title>
-    <version>1.2.8</version>
-    <authors>Edward Ned Harvey,Andrew Ferguson,Dean Gaudet,Ben Escoto</authors>
+    <version>2.0.5</version>
+    <authors>rdiff-backup contributors</authors>
     <owners>depsir</owners>
     <summary>rdiff-backup - A remote incremental backup of all your files</summary>
     <description>rdiff-backup backs up one directory to another, possibly over a network</description>
-    <projectUrl>http://www.nongnu.org/rdiff-backup/</projectUrl>
+    <projectUrl>https://rdiff-backup.net/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/rdiff-backup/rdiff-backup/master/docs/resources/logo-128.png</iconUrl>
     <tags>Rdiff-backup backup rdiff rsync admin</tags>
     <copyright></copyright>
-    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <licenseUrl>https://github.com/rdiff-backup/rdiff-backup/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>https://github.com/rdiff-backup/rdiff-backup/blob/master/CHANGELOG.md</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
